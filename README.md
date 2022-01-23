@@ -8,7 +8,7 @@
 <img align="right" src="https://media0.giphy.com/media/DTdSXmfoa8tnBnoxi6/giphy.gif?cid=790b76119f79a4648984a9fc4029e116d0eff065877bcd80&rid=giphy.gif&ct=s">
 <ul>
   <li>👋 Hi, I’m @leosilvinob</li>
-  <li>❤️ I love Creating machine learning's models and Programming in Python.</li> Extension Programs
+  <li>❤️ I love Creating machine learning's models and Programming in Python.</li> 
   <li>🌱 I’m currently learning Data Science, Database systems, Flask framework.</li>
   <li>:notebook_with_decorative_cover: I'm part of the A.I. team at Asa Branca Aerospace, a university extension program.</li>
 </ul>
