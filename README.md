@@ -4,7 +4,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+eletronic+engineering+student" /></a>
 </p>
-<p>I am a data scientist, I'm a eletronic engineering student.</p>
+<p>I'm a data scientist, I'm a eletronic engineering student.</p>
 <img align="right" src="https://media0.giphy.com/media/DTdSXmfoa8tnBnoxi6/giphy.gif?cid=790b76119f79a4648984a9fc4029e116d0eff065877bcd80&rid=giphy.gif&ct=s">
 <ul>
   <li>👋 Hi, I’m @leosilvinob</li>
